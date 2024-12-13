@@ -1,1 +1,0 @@
-# XenonStack_Technical_Task
