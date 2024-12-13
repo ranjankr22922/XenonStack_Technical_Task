@@ -11,12 +11,8 @@ Commands Overview Help: sysopctl --help Displays the help message with available
 
 Monitors real-time processes using the top command. Analyze Logs: sysopctl logs analyze
 
-Requirements Linux-based Operating System root/sudo privileges for certain commands (e.g., starting/stopping services) Screenshot 2024-12-13 172113
+Requirements Linux-based Operating System root/sudo privileges for certain comm![Screenshot 2024-12-13 172651](https://github.com/user-attachments/assets/169cc64a-7cc1-4f28-ae8f-d9f14b877c0f)
+ands (e.g., starting/stopping services) Screenshot 2024-12-13 172113![Screenshot 2024-12-13 172239](https://github.com/user-attachments/assets/f4b1166a-6b74-4041-b7ed-211678159a33)
 
-Screenshot 2024-12-13 172239
-
-Screenshot 2024-12-13 172651
-
-Screenshot 2024-12-13 172733
-
-Screenshot 2024-12-13 172831
+![Screenshot 2024-12-13 172113](https://github.com/u![Screenshot 2024-12-13 172733](https://github.com/user-attachments/assets/a5730cee-99c8-4bfa-985d-f884b8d46686)
+ser-attachments/assets/6c219415-4577-4df3-9bfe-dfa939056845)
